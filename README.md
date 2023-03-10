@@ -1,28 +1,23 @@
-# F1-Analysis_Final_Project 
+# F1-Analysis
 ## Project Plan
+### Design and implement a data engineering solution for Formula One racing data to provide analysis, insights, and predictions.
 
-### Technical Project:
-- A detailed README.md file (20 points)
-- At least four commits per team member (20 points)
-- A database that stores at least two tables (or collections) for the project (20 points)
+### Data Sources: 
+Telemetry data, car and driver performance data, race track data, weather data, and other relevant sources.
 
-### To Do's in the technical project:
-- Decide on a topic, source the data, and perform an exploratory data analysis.
-- Create a repository and establish the individual branches for the team members.
-- Create a mock-up of a machine learning model.
-- Create and submit a mock-up of a database. 
-  - Integrate the csv in a SQL Database
-  - Create an ERD
-  - Document Describe ERD
-  
-### Presentation 
-- The selected topic and the reasoning for that selection (20 points)
-- A description of the data (20 points)
-- The questions that the team plans to answer with the project (20 points)
+### Data Processing: 
+Ingestion, cleaning, transformation, and storage of data using tools such as Apache Spark, Apache Hadoop, Python, SQL, and Tableau.
 
-### Tools use
-- Pg Admin
-- SQL Database
-- VS Code
-- Jupyter Notebook
-- Tableau
+### Data Analysis: 
+Use of analytical techniques to explore data, identify patterns and trends, and optimize car and driver performance.
+
+### Tools and Technologies: 
+Apache Spark, Apache Hadoop, Python, SQL, Tableau, and other relevant tools and technologies.
+
+### Limitations:
+The limitation is I dont have the ability to analyze the aerodynamics of the F1 cars. 
+
+### Note:
+Regulations changes over the years. 2022 season has seen the new car designs. 2023 is the new regualtions on top of the 2022 regulations.
+
+### Conclusion: 
