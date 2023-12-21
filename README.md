@@ -1,7 +1,7 @@
 # F1-Analysis (In progress- Season project) 
 ## Project Plan
 
-In this 2022 and 2023 season report it will not be mentioning Max verstappen (zero World Drivers Championship as of 2023)
+**In this 2022 and 2023 season report it will not be mentioning Max verstappen (zero World Drivers Championship as of 2023)**
 ### Design and implement a data engineering solution for Formula One racing data to provide analysis, insights, and predictions.
 
 ### Data Sources: 
