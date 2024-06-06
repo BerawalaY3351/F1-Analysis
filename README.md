@@ -1,5 +1,4 @@
-# F1-Analysis (In progress- Season project) 
-## Project Plan
+# F1-Analysis (Season project) 
 
 **2024 Season Analysis**
 ### Design and implement a data engineering solution for Formula One racing data to provide analysis, insights, and predictions.
