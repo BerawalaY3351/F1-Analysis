@@ -1,6 +1,6 @@
 # F1-Analysis (Seasonal Project)
 
-## 2024 Season Analysis
+[Georg Russel's 2025 Dutch GP Analysis](https://github.com/BerawalaY3351/George-Russell-DutchGP25-Performance-Analysis)
 
 ### Project Overview
 This project aims to design and implement a data engineering and analysis solution for Formula One racing data to provide insights and predictions. The focus is on optimizing car and driver performance by analyzing various data points including telemetry, car and driver performance, race tracks, weather, and more.
